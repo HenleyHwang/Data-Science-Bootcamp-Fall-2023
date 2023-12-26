@@ -1,0 +1,22 @@
+## Practice Questions
+1. How do you assess the statistical significance of an insight?
+Compute the probability of observing the given data, assuming that the null hypothesis is true, and see if it is less than the chosen significance level.
+
+2. What is the Central Limit Theorem? Explain it. Why is it important?
+Standardized sample mean of i.i.d. random variable with finite variance converges in distribution to standard normal distribution. 
+This is important because we can approximate distribution of sample mean regardless of how the underlying population is distributed, as long as sample size is large enough.
+
+3. What is the statistical power?
+Probability that the test rejects the null hypothesis when alternative hypothesis is true.
+
+4. How do you control for biases?
+Randomly assign participants to different treatments.
+
+5. What are confounding variables?
+Variable that influences both the dependent variable and independent variable.
+
+6. What is A/B testing?
+A randomized controlled experiment for two variants.
+
+7. What are confidence intervals?
+An x confidence interval is an interval that contains the true parameter with probability at least x.
